@@ -42,3 +42,9 @@ docker-compose up -d
 docker-compose run --rm composer update
 docker-compose run --rm artisan migrate --seed
 ```
+
+3. ### Build Front
+```sh
+docker-compose run --rm npm i
+docker-compose run --rm npm run build
+```
