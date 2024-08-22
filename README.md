@@ -24,7 +24,7 @@ Welcome to the demo project built with Laravel! This project is designed to show
 ```sh
 git clone https://github.com/Zbara/test-code-hub.git
 
-cd code-hub
+cd test-code-hub
 ```
 2. #### Build docker 
 
